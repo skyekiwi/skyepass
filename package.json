@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^2.10.1",
+    "@polkadot/api-contract": "^2.10.1",
+    "@polkadot/keyring": "^4.2.1",
+    "@polkadot/networks": "^4.2.1",
+    "@polkadot/util": "^4.2.1",
+    "@polkadot/util-crypto": "^4.2.1",
+    "eccrypto": "^1.1.5",
+    "eth-crypto": "^1.8.0",
+    "ipfs": "^0.52.3",
+    "lowdb": "^1.0.0",
+    "secrets.js-grempe": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
